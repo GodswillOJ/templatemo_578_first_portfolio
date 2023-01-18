@@ -491,7 +491,8 @@ strong {
 }
 
 .hero-title {
-	font-size: 44px;
+	font-size: 30px;
+  padding: 40px;
 }
 
 .hero h2 {
